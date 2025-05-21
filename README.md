@@ -10,6 +10,7 @@ Optimized website performance by implementing efficient code, improving load tim
 Enhanced UI/UX design with intuitive navigation, modern styling, and interactive elements to improve user engagement.
 
 Tools & Technologies Used:
+
 -HTML
 - CSS
 - JavaScript
