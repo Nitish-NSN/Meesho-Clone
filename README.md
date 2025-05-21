@@ -14,4 +14,4 @@ Tools & Technologies Used:
 - HTML
 - CSS
 - JavaScript
-  Runs on Live server vs code
+-  Runs on Live server vs code
