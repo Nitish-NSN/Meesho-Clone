@@ -11,7 +11,7 @@ Enhanced UI/UX design with intuitive navigation, modern styling, and interactive
 
 Tools & Technologies Used:
 
--HTML
+- HTML
 - CSS
 - JavaScript
   Runs on Live server vs code
