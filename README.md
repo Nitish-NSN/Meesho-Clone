@@ -8,6 +8,7 @@ Designed and implemented key features like product browsing, search, and cart ma
 Integrated backend functionalities for user authentication, product listings, and order processing, enhancing platform efficiency. 
 Optimized website performance by implementing efficient code, improving load times, and ensuring mobile responsiveness. 
 Enhanced UI/UX design with intuitive navigation, modern styling, and interactive elements to improve user engagement.
+
 Tools & Technologies Used:
 -HTML
 - CSS
